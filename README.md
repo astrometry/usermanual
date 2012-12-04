@@ -9,8 +9,10 @@ git repo every 5 minutes.
 
 If you have a question about how to use the Astrometry.net code
 (*solve-field*, etc), or the http://nova.astrometry.net web service,
-please search the manual, or the existing issues.  If you don't find
-an answer, please post a new issue.  We will try to answer it and pull
+please search the manual, or see the [existing issues](https://github.com/astrometry/usermanual/issues).
+If you don't find
+an answer, please [post a new issue](https://github.com/astrometry/usermanual/issues/new).  
+We will try to answer it and pull
 the answer into the manual.  It's fine to just ask a question in an
 issue --- the "issue" is that the answer to your question wasn't clear
 from the documentation!
