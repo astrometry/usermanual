@@ -28,5 +28,5 @@ Web service: Nova.astrometry.net
 
 * **Getting Fancy:**
   :doc:`The "Advanced settings" panel <advanced>` |
-  :doc:`Using Nove from your own code: API <api>`
+  :doc:`Using Nova from your own code: API <api>`
 

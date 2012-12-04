@@ -4,6 +4,9 @@ Astrometry.net user manual
 Issue tracking for Astrometry.net projects, and a place to work on The
 Long-Missing Manual.
 
+[Read it on the web](http://astrometry.net/doc2) -- updated from the
+git repo every 5 minutes.
+
 If you have a question about how to use the Astrometry.net code
 (*solve-field*, etc), or the http://nova.astrometry.net web service,
 please search the manual, or the existing issues.  If you don't find
