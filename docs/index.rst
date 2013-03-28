@@ -9,7 +9,7 @@ Command-line version: *solve-field* and friends
 ===============================================
 
 * **Getting Started:**
-  `Download <http://astrometry.net/downloads>`_ |
+  :doc:`Download <download>` |
   :doc:`Install <install>` |
   :doc:`Solve your first image <firstimage>`
 
